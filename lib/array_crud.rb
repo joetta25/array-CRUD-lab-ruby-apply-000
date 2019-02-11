@@ -29,8 +29,8 @@ end
 def retrieve_element_from_index(array, index_number)
 array = ['cat', 'dog']
 index_number = ['mom', 'dad', 'sister']
-index_number.shift
-index_number.take("mom")
+index.shift
+index.take("mom")
 end
 
 def retrieve_first_element_from_array(array)
