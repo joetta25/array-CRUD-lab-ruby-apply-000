@@ -27,6 +27,8 @@ array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
+array = ['cat', 'dog']
+index_number = [1,2,3]
 index_number.shift
 end
 
