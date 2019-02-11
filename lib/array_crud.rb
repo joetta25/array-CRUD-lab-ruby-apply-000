@@ -28,7 +28,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
 array = ['cat', 'dog']
-index_number = ['mom', 'dad', 'sister']
+index_number = ['mom', 'dad', 'am']
 index_number[2]
 end
 
